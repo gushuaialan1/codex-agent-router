@@ -1,11 +1,22 @@
 ---
 name: agent-router
-description: Route a user task to the most suitable Codex custom agent before doing work. Use when the task may benefit from a specialized agent, when the user is unsure which agent to use, or when you want to ask for confirmation before delegating to a recommended agent.
+description: Route a user task to the most suitable Codex custom agent before doing work. Use when the user asks which agent to use, wants to choose or recommend an agent first, wants to route a task, wants to decide whether a specialized agent is better, or wants confirmation before delegating to a recommended agent. Also use for requests such as “先判断用哪个 agent”, “先 route 一下”, “推荐一个 agent”, or “这个任务更适合哪个 agent”.
 ---
 
 # Agent Router
 
 Use this skill before substantial work when a custom Codex agent might be a better fit.
+
+Common trigger phrases include:
+
+- which agent should be used first
+- recommend an agent for this task
+- route this request first
+- decide whether a specialized agent is better
+- 先判断用哪个 agent
+- 先 route 一下
+- 推荐一个 agent
+- 这个任务更适合哪个 agent
 
 ## Workflow
 

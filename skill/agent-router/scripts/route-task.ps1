@@ -116,6 +116,7 @@ function Get-QueryKeywords {
         "修复|实现|开发|写代码|新增" = @("fix", "implement", "build")
         "重构|整理代码|简化|解耦" = @("refactor", "refactoring-specialist", "legacy-modernizer")
         "并行|协调|拆任务|多 agent|多智能体" = @("parallel", "multi-agent-coordinator", "task-distributor")
+        "agent|subagent|智能体|代理|哪个 agent|哪个智能体|适合哪个 agent|用哪个 agent|推荐 agent|推荐个 agent|先判断|先 route|路由一下|分派一下|挑一个 agent" = @("agent", "agent-installer", "agent-organizer", "multi-agent-coordinator")
         "powershell" = @("powershell", "powershell-7-expert", "powershell-module-architect")
         "python" = @("python", "python-pro")
         "docker" = @("docker", "docker-expert")
