@@ -2,7 +2,7 @@
 
 [![PowerShell](https://img.shields.io/badge/PowerShell-7%2B-5391FE?logo=powershell&logoColor=white)](#quick-start)
 [![Platform](https://img.shields.io/badge/platform-Windows-informational)](#prerequisites)
-[![License](https://img.shields.io/badge/license-unlicensed-lightgrey)](#limitations)
+[![License](https://img.shields.io/badge/license-MIT-green)](./LICENSE)
 
 中文 | [English](#english)
 
